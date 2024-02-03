@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhivi</h1>
-<h3 align="center">Passionate Frontend Developer from India</h3>
+<h3 align="center">Passionate MERN Stack Developer from India</h3>
 
 - 🌱 Currently learning **MERN Stack development**
 
@@ -13,9 +13,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
+  <h4>React js</h4>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   </a>
+  <h4>React Native</h4>
+
   <!-- Add other technologies here -->
 </p>
 
