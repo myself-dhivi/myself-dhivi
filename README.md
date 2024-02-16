@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m Application development analyst at XYLOINC<br><br>🌱 Currently learning MERN Stack development<br><br>💬 Ask me about React, Mongo DB, Node JS, Express, Tailwind and Django
-
-
+- 👋 Hi, I’m Divakar
+- 👀 I’m interested in Product devlopment and design
+- 🌱 I’m currently learning Mern Stack
 
 
 # 💻 Tech Stack:
