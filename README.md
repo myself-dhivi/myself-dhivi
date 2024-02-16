@@ -1,6 +1,9 @@
 # 💫 About Me:
+
 - 👋 Hi, I’m Divakar
+
 - 👀 I’m interested in Product devlopment and design
+
 - 🌱 I’m currently learning Mern Stack
 
 
