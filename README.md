@@ -103,7 +103,6 @@
 
 ---
 
-## 📊 GitHub Snapshot
 
 ## 📊 GitHub Snapshot
 
