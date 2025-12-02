@@ -106,9 +106,16 @@
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-dhivi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=myself-dhivi&theme=radical&hide_border=false" height="160" />
+  <img
+    src="https://github-readme-stats-myself-dhivi.vercel.app/api?username=myself-dhivi&show_icons=true&theme=radical"
+    height="160"
+/>
+  <img
+    src="https://github-readme-stats-myself-dhivi.vercel.app/api/top-langs/?username=myself-dhivi&layout=compact&theme=radical"
+    height="150"
+/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-dhivi&theme=radical&hide_border=false&layout=compact" height="150" />
