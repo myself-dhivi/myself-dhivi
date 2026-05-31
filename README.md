@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divakar%20C%20T&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Application%20Development%20Lead%20%26%20GenAI%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divakar%20C%20T&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Application%20Dev%20Lead%20%7C%20GenAI%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -113,11 +113,11 @@ I'm an **Application Development Lead & GenAI Engineer** at [XYLOINC](https://gi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myself-dhivi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=12" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-dhivi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-dhivi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_radius=12&langs_count=8&card_width=320" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-dhivi&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=12" />
+  <img src="https://streak-stats.demolab.com/?user=myself-dhivi&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=12" />
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ I'm an **Application Development Lead & GenAI Engineer** at [XYLOINC](https://gi
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🚀 Application Development Lead & GenAI Expert — XYLOINC</strong> &nbsp;|&nbsp; Jun 2024 – Present</summary>
+<summary><strong>🚀 Application Development Lead &amp; GenAI Expert — XYLOINC</strong> &nbsp;|&nbsp; Jun 2024 – Present</summary>
 
 <br/>
 
@@ -253,7 +253,7 @@ Coimbatore Institute of Engineering and Technology
   <img src="https://img.shields.io/badge/Achievement-YOLO-critical?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Organizations:** &nbsp;[@XYLO-DEV](https://github.com/XYLO-DEV) &nbsp;·&nbsp; [@ZYORA-LYTE](https://github.com/ZYORA-LYTE)
+**Organizations:** &nbsp;[@XYLO-DEV](https://github.com/XYLO-DEV) 
 
 ---
 
